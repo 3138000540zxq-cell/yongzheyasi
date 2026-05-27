@@ -1,0 +1,118 @@
+[
+  {
+    "id": "vocab-001",
+    "skill": "vocabulary",
+    "prompt": "Choose the closest meaning of \"substantial\".",
+    "options": ["Tiny", "Considerable", "Temporary", "Hidden"],
+    "answerIndex": 1,
+    "explanation": "\"Substantial\" means large, important, or considerable."
+  },
+  {
+    "id": "vocab-002",
+    "skill": "vocabulary",
+    "prompt": "Which word best completes the sentence? The chart shows a ___ increase in online sales.",
+    "options": ["sharp", "sharply", "sharpness", "sharpen"],
+    "answerIndex": 0,
+    "explanation": "An adjective is needed before \"increase\", so \"sharp\" is correct."
+  },
+  {
+    "id": "vocab-003",
+    "skill": "vocabulary",
+    "prompt": "Choose the best synonym for \"mitigate\".",
+    "options": ["Worsen", "Reduce", "Predict", "Repeat"],
+    "answerIndex": 1,
+    "explanation": "To mitigate a problem is to make it less serious."
+  },
+  {
+    "id": "vocab-004",
+    "skill": "vocabulary",
+    "prompt": "In IELTS Writing, \"approximately\" is closest in meaning to:",
+    "options": ["Exactly", "Roughly", "Rarely", "Recently"],
+    "answerIndex": 1,
+    "explanation": "\"Approximately\" means about or roughly."
+  },
+  {
+    "id": "grammar-001",
+    "skill": "grammar",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      "The number of students have increased.",
+      "The number of students has increased.",
+      "The number of students are increased.",
+      "The number of students were increase."
+    ],
+    "answerIndex": 1,
+    "explanation": "\"The number\" is singular, so it takes \"has\"."
+  },
+  {
+    "id": "grammar-002",
+    "skill": "grammar",
+    "prompt": "Which option correctly uses a conditional sentence?",
+    "options": [
+      "If governments invest more, pollution will decrease.",
+      "If governments invests more, pollution decrease.",
+      "If governments invested more, pollution will decreases.",
+      "If governments invest more, pollution decreasing."
+    ],
+    "answerIndex": 0,
+    "explanation": "The first conditional uses present simple after \"if\" and \"will\" in the result clause."
+  },
+  {
+    "id": "grammar-003",
+    "skill": "grammar",
+    "prompt": "Choose the correct article: ___ university should provide more career support.",
+    "options": ["An", "A", "The only", "No article is ever possible"],
+    "answerIndex": 1,
+    "explanation": "\"University\" starts with a /ju:/ sound, so \"a university\" is correct."
+  },
+  {
+    "id": "grammar-004",
+    "skill": "grammar",
+    "prompt": "Choose the best phrase: Many people are concerned ___ climate change.",
+    "options": ["in", "to", "about", "for"],
+    "answerIndex": 2,
+    "explanation": "The adjective phrase is \"concerned about\" something."
+  },
+  {
+    "id": "reading-001",
+    "skill": "reading",
+    "prompt": "A passage says: \"The policy was introduced to curb traffic congestion.\" What was the purpose of the policy?",
+    "options": [
+      "To increase private car use",
+      "To reduce traffic jams",
+      "To build more shopping centres",
+      "To make public transport expensive"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Curb\" means control or reduce, and congestion means traffic jams."
+  },
+  {
+    "id": "reading-002",
+    "skill": "reading",
+    "prompt": "A text states: \"The results were mixed.\" What does this usually imply?",
+    "options": [
+      "All results were positive",
+      "All results were negative",
+      "There were both positive and negative results",
+      "The results were not recorded"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Mixed\" results usually include both good and bad outcomes."
+  },
+  {
+    "id": "reading-003",
+    "skill": "reading",
+    "prompt": "In a True/False/Not Given task, the passage does not mention the writer's opinion. The answer should be:",
+    "options": ["True", "False", "Not Given", "Both True and False"],
+    "answerIndex": 2,
+    "explanation": "If the information is not stated, the answer is \"Not Given\"."
+  },
+  {
+    "id": "reading-004",
+    "skill": "reading",
+    "prompt": "A passage says: \"Solar power is becoming increasingly viable.\" What does \"viable\" mean here?",
+    "options": ["Practical and workable", "Impossible to use", "Illegal", "Unpopular everywhere"],
+    "answerIndex": 0,
+    "explanation": "\"Viable\" means capable of working successfully."
+  }
+]
