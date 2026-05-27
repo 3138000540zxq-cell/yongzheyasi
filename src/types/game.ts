@@ -1,4 +1,5 @@
 export type SkillKey = 'vocabulary' | 'grammar' | 'reading';
+export type BattleActionKey = 'basic' | 'skill' | 'heavy' | 'ultimate';
 
 export interface Question {
   id: string;
@@ -18,6 +19,16 @@ export interface MonsterDefinition {
   rewardExp: number;
   rewardGold: number;
   color: number;
+}
+
+export interface BattleActionDefinition {
+  key: BattleActionKey;
+  name: string;
+  questionCount: number;
+  mpCost: number;
+  unlockLevel: number;
+  damageMultiplier: number;
+  description: string;
 }
 
 export interface SaveData {
